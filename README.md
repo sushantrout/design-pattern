@@ -22,6 +22,10 @@ Design patterns are solutions to general problems that software developers faced
     <td>
     <ol>
       <li>Singleton</li>
+      <li>Factory</li>
+      <li>Abstract Factory</li>
+      <li>Builder</li>
+      <li>Prototype</li>
     <ol>
     </td>
   </tr>
