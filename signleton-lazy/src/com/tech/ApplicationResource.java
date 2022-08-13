@@ -12,7 +12,6 @@ public class ApplicationResource {
 	private static final ApplicationResource INSTANCE = new ApplicationResource();
 
 	private ApplicationResource() {
-
 	}
 
 	public ApplicationResource getInstance() {
