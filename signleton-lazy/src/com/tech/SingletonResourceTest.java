@@ -10,7 +10,7 @@ public class SingletonResourceTest {
 		// ApplicationResource resource = new ApplicationResource();
 
 		/**
-		 * This same object will be create for all the instance
+		 * Only one object will be created for all the getInstance()
 		 */
 
 		ApplicationResource instance1 = ApplicationResource.getInstance();

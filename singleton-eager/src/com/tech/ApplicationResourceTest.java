@@ -8,7 +8,7 @@ public class ApplicationResourceTest {
 		// ApplicationResource resource = new ApplicationResource();
 
 		/**
-		 * This same object will be create for all the instance
+		 * For all thread will share the same object.
 		 */
 
 		ExecutorService executor = Executors.newFixedThreadPool(10);
